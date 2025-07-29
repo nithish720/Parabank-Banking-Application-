@@ -1,5 +1,5 @@
 # Parabank-Banking-Application
-# 🧪 Parabank Banking Application – QA Project (Manual + Automation + API)
+# 🏦Parabank Banking Application – QA Project (Manual + Automation + API)
 
 This repository contains end-to-end **Software Testing artifacts** for the **Parabank** online banking application. The project includes **Manual Testing**, **Selenium Automation (Python)**, and **API Testing using Postman**.
 
